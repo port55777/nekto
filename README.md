@@ -1,5 +1,6 @@
 # nekto
 
+```
 function f() {
   try {
     document.getElementById('searchCompanyBtn').click(); 
@@ -12,3 +13,4 @@ function f() {
 }
 
 setInterval(f, 500);
+```
